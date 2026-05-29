@@ -2,7 +2,7 @@
 
 My global configuration files for [Hermes Agent](https://github.com/NousResearch/hermes-agent) and other AI coding agents.
 
-Forked and remixed from [zeke/agents.md](https://github.com/zeke/agents.md). Feel free to fork, copy, or steal any of it.
+
 
 ---
 
